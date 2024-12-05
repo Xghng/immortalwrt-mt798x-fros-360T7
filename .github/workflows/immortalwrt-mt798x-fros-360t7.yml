@@ -1,4 +1,4 @@
-name: pure-hanwckf-360t7
+name: pure-immortalwrt-mt798x-fros-360t7
 
 on:
   repository_dispatch:
@@ -9,7 +9,7 @@ on:
          default: 'false'
 
 env:
-  REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x
+  REPO_URL: https://github.com/destan19/immortalwrt-mt798x-fros
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: pure.config
