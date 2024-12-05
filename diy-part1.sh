@@ -12,3 +12,4 @@
 
 ### 添加第三方订阅源
 ### sed -i '$a src-git-full small https://github.com/kenzok8/small-package' feeds.conf.default
+sed -i '$a src-git-full fros https://github.com/destan19/fros-packages-immortalwrt-mt798x.git' feeds.conf.default
